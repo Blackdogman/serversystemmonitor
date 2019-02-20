@@ -23,3 +23,7 @@
 /nbdist/
 /.nb-gradle/
 /build/
+/.mvn/wrapper/
+/mvnw.cmd
+/mvnw
+/.mvn/wrapper/maven-wrapper.jar
